@@ -3998,7 +3998,8 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 msgid "Instructor"
-msgstr ""
+msgstr "Giảng viên"
+
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 #, python-brace-format
@@ -4031,7 +4032,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 msgid "Course Info"
-msgstr ""
+msgstr "Thông tin khóa học"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 #, python-brace-format
@@ -4040,11 +4041,12 @@ msgstr "Enrollment data is now available in {dashboard_link}."
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 msgid "Membership"
-msgstr ""
+msgstr "Thành viên"
+
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 msgid "Cohorts"
-msgstr ""
+msgstr "Nhóm học viên"
 
 #: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html
 msgid "Discussions"
@@ -4052,7 +4054,7 @@ msgstr "Thảo Luận"
 
 #: lms/templates/ccx/coach_dashboard.html
 msgid "Student Admin"
-msgstr "Student Admin"
+msgstr "Quản lý học viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 msgid "Extensions"
@@ -14451,7 +14453,8 @@ msgstr "Chính sách chấm điểm"
 #: lms/templates/ccx/coach_dashboard.html
 #: lms/templates/instructor/instructor_dashboard_2/membership.html
 msgid "Batch Enrollment"
-msgstr "Batch Enrollment"
+msgstr "Ghi danh hàng loạt"
+
 
 #: lms/templates/ccx/coach_dashboard.html lms/templates/ccx/student_admin.html
 msgid "Student Grades"
@@ -18193,7 +18196,6 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html
 msgid ""
-msgid ""
 "For smaller courses, click to list                 profile information for "
 "enrolled students directly on this page:"
 msgstr "Với các khóa học nhỏ, nhấn để hiển thị thông tin hồ sơ của học viên đã ghi danh ngay trên trang này:"
@@ -18207,7 +18209,7 @@ msgstr ""
 "Nhấn để tạo tệp CSV chứa danh sách tất cả học viên đã ghi danh vào khóa học này, cùng với thông tin hồ sơ như địa chỉ email và tên đăng nhập:"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html
-msgid ""
+
 msgid ""
 "Click to generate a CSV file                 that lists learners who can "
 "enroll in the course but have not yet done so."
@@ -18464,6 +18466,7 @@ msgstr "Đã đặt lại mật khẩu thành công"
 #: lms/templates/registration/password_reset_complete.html
 msgid "Password Reset Complete"
 msgstr "Đổi mật khẩu thành công"
+
 
 #: lms/templates/registration/password_reset_complete.html
 msgid ""
@@ -23548,6 +23551,9 @@ msgstr ""
 #: wiki/plugins/images/forms.py
 msgid "Are you sure?"
 msgstr "Bạn có chắc không?"
+
+msgid "Pass"
+msgstr "Đạt"
 
 #: wiki/plugins/images/models.py
 msgid "image"
