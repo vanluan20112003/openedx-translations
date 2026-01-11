@@ -1,156 +1,156 @@
 {
   "Hyperlink.externalLinkAltText": {
-    "string": ""
+    "string": "trong một tab mới"
   },
   "Hyperlink.externalLinkTitle": {
-    "string": ""
+    "string": "Mở trong tab mới"
   },
   "dropzone.Dropzone.invalidSizeLessError": {
-    "developer_comment": "Thông báo hiển thị khi một tệp có kích thước nhỏ hơn kích thước tối thiểu cho phép đang được tải lên trong Dropzone.",
-    "string": "Tệp phải lớn hơn {size} ."
+    "developer_comment": "Hiển thị khi tải lên file nhỏ hơn dung lượng tối thiểu cho phép.",
+    "string": "File phải lớn hơn {size}."
   },
   "dropzone.Dropzone.invalidSizeMoreError": {
-    "developer_comment": "Thông báo hiển thị khi một tệp có kích thước lớn hơn kích thước tối đa cho phép đang được tải lên trong Dropzone.",
-    "string": "Tệp phải nhỏ hơn {size} ."
+    "developer_comment": "Hiển thị khi tải lên file vượt quá dung lượng tối đa cho phép.",
+    "string": "File phải nhỏ hơn {size}."
   },
   "dropzone.Dropzone.invalidType": {
-    "developer_comment": "Thông báo hiển thị khi tải lên một tệp có loại MIME sai.",
-    "string": "Loại tệp phải là {count, số nhiều, một { tệp {typeString} } khác {một trong các tệp {typeString} }}."
+    "developer_comment": "Hiển thị khi tải lên file sai loại MIME.",
+    "string": "Loại file phải là {count, plural, one {{typeString} file} other {one of {typeString} files}}."
   },
   "dropzone.Dropzone.multipleDraggedError": {
-    "developer_comment": "Thông báo hiển thị khi nhiều tệp được kéo qua Dropzone.",
-    "string": "Chỉ cho phép tải lên một lần."
+    "developer_comment": "Hiển thị khi kéo nhiều file vào Dropzone.",
+    "string": "Chỉ cho phép tải lên một file."
   },
   "dropzone.Dropzone.unexpectedValidationError": {
-    "developer_comment": "Một thông báo hiển thị khi xác thực tệp trường hợp trong thành phần Dropzone mà không rõ lý do.",
-    "string": "Đã xảy ra sự cố không mong muốn trong quá trình xác thực tệp. Vui lòng thử lại."
+    "developer_comment": "Hiển thị khi lỗi xác thực file xảy ra vì lý do không xác định.",
+    "string": "Đã xảy ra sự cố trong lúc xác thực file. Vui lòng thử lại."
   },
   "dropzone.Dropzone.uploadError": {
-    "developer_comment": "Một thông báo hiển thị trong trường hợp tải lên tệp trong thành phần Dropzone dẫn đến lỗi.",
-    "string": "Đã xảy ra sự cố khi tải tệp của bạn lên. Vui lòng thử lại."
+    "developer_comment": "Hiển thị khi xảy ra lỗi trong quá trình tải file lên.",
+    "string": "Đã xảy ra sự cố khi tải file lên. Vui lòng thử lại."
   },
   "pgn.Alert.closeLabel": {
-    "developer_comment": "Nhãn của nút đóng trên thành phần Cảnh báo",
-    "string": "Loại bỏ"
+    "developer_comment": "Nhãn nút đóng trên Alert component",
+    "string": "Đóng"
   },
   "pgn.CardCarousel.scrollToNext": {
-    "developer_comment": "Văn bản trợ năng mô tả hành động điều hướng băng chuyền có thể cuộn tới phần tử tiếp theo",
-    "string": "Di chuyển đến tiếp theo"
+    "developer_comment": "Text hỗ trợ mô tả hành động cuộn carousel sang phần tử tiếp theo",
+    "string": "Cuộn tới tiếp theo"
   },
   "pgn.CardCarousel.scrollToPrevious": {
-    "developer_comment": "Văn bản trợ năng mô tả hành động điều hướng băng chuyền có thể cuộn đến phần tử trước đó",
+    "developer_comment": "Text hỗ trợ mô tả hành động cuộn carousel sang phần tử trước đó",
     "string": "Cuộn về trước"
   },
   "pgn.ChipCarousel.scrollToNext": {
-    "developer_comment": "Văn bản trợ năng mô tả hành động điều hướng băng chuyền có thể cuộn tới phần tử tiếp theo",
-    "string": "Di chuyển đến tiếp theo"
+    "developer_comment": "Text hỗ trợ mô tả hành động cuộn carousel sang phần tử tiếp theo",
+    "string": "Cuộn tới tiếp theo"
   },
   "pgn.ChipCarousel.scrollToPrevious": {
-    "developer_comment": "Văn bản trợ năng mô tả hành động điều hướng băng chuyền có thể cuộn đến phần tử trước đó",
+    "developer_comment": "Text hỗ trợ mô tả hành động cuộn carousel sang phần tử trước đó",
     "string": "Cuộn về trước"
   },
   "pgn.DataTable.BaseSelectionStatus.allSelectedText": {
-    "developer_comment": "Văn bản cho tất cả nhãn đã chọn",
+    "developer_comment": "Text hiển thị khi chọn tất cả",
     "string": "Đã chọn tất cả {numSelectedRows}"
   },
   "pgn.DataTable.BaseSelectionStatus.clearSelectionText": {
-    "developer_comment": "Nhãn của nút chọn rõ ràng tất cả.",
-    "string": "Xóa lựa chọn"
+    "developer_comment": "Nhãn nút bỏ chọn tất cả.",
+    "string": "Bỏ chọn"
   },
   "pgn.DataTable.BaseSelectionStatus.selectAllText": {
-    "developer_comment": "Một nhãn cho nút chọn tất cả.",
+    "developer_comment": "Nhãn nút chọn tất cả.",
     "string": "Chọn tất cả {itemCount}"
   },
   "pgn.DataTable.BaseSelectionStatus.selectedText": {
-    "developer_comment": "Văn bản cho nhãn đã chọn",
-    "string": "{numSelectedRows} đã chọn"
+    "developer_comment": "Text hiển thị số lượng đã chọn",
+    "string": "Đã chọn {numSelectedRows}"
   },
   "pgn.DataTable.BaseSelectionStatus.selectedTextPaginated": {
-    "developer_comment": "Văn bản cho nhãn đã chọn khi bảng được đánh số trang",
-    "string": "{numSelectedRows} đã chọn ( {numSelectedRowsOnPage} hiển thị bên dưới)"
+    "developer_comment": "Text hiển thị số lượng đã chọn khi bảng có phân trang",
+    "string": "Đã chọn {numSelectedRows} ({numSelectedRowsOnPage} hiển thị bên dưới)"
   },
   "pgn.DataTable.ExpandAll.collapseAllLabel": {
-    "developer_comment": "Nhãn của nút hành động thu gọn tất cả các hàng DataTable có thể mở rộng.",
+    "developer_comment": "Nhãn nút thu gọn tất cả các hàng có thể mở rộng trong DataTable.",
     "string": "Thu gọn tất cả"
   },
   "pgn.DataTable.ExpandAll.expandAllLabel": {
-    "developer_comment": "Nhãn của nút tác vụ mở rộng tất cả các hàng DataTable có thể mở rộng.",
+    "developer_comment": "Nhãn nút mở rộng tất cả các hàng trong DataTable.",
     "string": "Mở rộng tất cả"
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "Một văn bản xuất hiện trên nút `Xóa bộ lọc`",
+    "developer_comment": "Text trên nút `Xóa bộ lọc`",
     "string": "Xóa bộ lọc"
   },
   "pgn.DataTable.RowStatus.statusText": {
-    "developer_comment": "Một văn bản mô tả số lượng hàng được hiển thị trong bảng",
-    "string": "Đang hiển thị {firstRow} - {lastRow} của {itemCount} ."
+    "developer_comment": "Text mô tả số dòng đang hiển thị trong bảng",
+    "string": "Đang hiển thị {firstRow} - {lastRow} trên {itemCount}."
   },
   "pgn.DataTable.SidebarFilters.title": {
-    "developer_comment": "Tiêu đề cho thành phần bộ lọc thanh bên",
+    "developer_comment": "Tiêu đề của sidebar bộ lọc",
     "string": "Bộ lọc"
   },
   "pgn.DataTable.paginationLabel": {
-    "developer_comment": "",
-    "string": ""
+    "developer_comment": "Tên hỗ trợ tiếp cận cho phần phân trang của bảng",
+    "string": "Phân trang bảng"
   },
   "pgn.Dropzone.DefaultContent.fileSizeBetween": {
-    "developer_comment": "Thông báo hiển thị khi kích thước tệp được tải lên phải nằm trong phạm vi nhất định.",
-    "string": "Giữa {sizeMin} và {sizeMax}"
+    "developer_comment": "Hiển thị khi dung lượng file phải nằm trong khoảng cho phép.",
+    "string": "Trong khoảng {sizeMin} và {sizeMax}"
   },
   "pgn.Dropzone.DefaultContent.fileSizeMax": {
-    "developer_comment": "Thông báo hiển thị khi kích thước tệp được tải lên phải lớn hơn một giá trị nào đó.",
+    "developer_comment": "Hiển thị khi dung lượng file phải nhỏ hơn giá trị cho phép.",
     "string": "Tối đa {sizeMax}"
   },
   "pgn.Dropzone.DefaultContent.fileSizeMin": {
-    "developer_comment": "Thông báo hiển thị khi kích thước tệp được tải lên phải lớn hơn một giá trị nào đó.",
+    "developer_comment": "Hiển thị khi dung lượng file phải lớn hơn giá trị cho phép.",
     "string": "Tối thiểu {sizeMin}"
   },
   "pgn.Dropzone.DefaultContent.fileTypeRestriction": {
-    "developer_comment": "Thông báo hiển thị khi tệp được tải lên phải thuộc (các) loại nhất định.",
-    "string": "Tải lên {count, số nhiều, một { tệp {firstPart} } tệp khác { {firstPart} hoặc {secondPart} }}"
+    "developer_comment": "Hiển thị khi file tải lên phải thuộc loại nhất định.",
+    "string": "Chỉ tải lên {count, plural, one {{firstPart} files} other {{firstPart} hoặc {secondPart} files}}"
   },
   "pgn.Dropzone.DefaultContent.label": {
-    "developer_comment": "Một văn bản xuất hiện dưới dạng nhãn cho đầu vào của thành phần Dropzone.",
-    "string": "Kéo và thả tệp của bạn vào đây hoặc nhấp để tải lên."
+    "developer_comment": "Text nhãn cho input của Dropzone component.",
+    "string": "Kéo và thả file vào đây hoặc bấm để tải lên."
   },
   "pgn.Dropzone.UploadProgress.cancelLabel": {
-    "developer_comment": "Nhãn của nút hủy được hiển thị trong quá trình tải tệp lên trong thành phần Dropzone.",
-    "string": "Hủy bỏ"
+    "developer_comment": "Nhãn nút hủy trong quá trình tải lên file.",
+    "string": "Hủy"
   },
   "pgn.Dropzone.UploadProgress.uploadLabel": {
-    "developer_comment": "Một văn bản được hiển thị gần thanh tiến trình trong quá trình tải tệp lên trong thành phần Dropzone.",
-    "string": "Đang tải lên {filename} ."
+    "developer_comment": "Text hiển thị gần thanh tiến trình khi tải lên.",
+    "string": "Đang tải {filename}."
   },
   "pgn.FormAutosuggest.iconButtonClosed": {
-    "developer_comment": "Một thông báo hiển thị trong trường hợp trình đơn tự động đề xuất được mở.",
-    "string": "Đóng trình đơn tùy chọn"
+    "developer_comment": "Hiển thị khi menu gợi ý đang mở.",
+    "string": "Đóng menu tùy chọn"
   },
   "pgn.FormAutosuggest.iconButtonOpened": {
-    "developer_comment": "Một thông báo hiển thị trong trường hợp trình đơn tự động đề xuất bị đóng.",
-    "string": "Mở trình đơn tùy chọn"
+    "developer_comment": "Hiển thị khi menu gợi ý đang đóng.",
+    "string": "Mở menu tùy chọn"
   },
   "pgn.Modal.closeButon": {
-    "developer_comment": "",
-    "string": ""
+    "developer_comment": "Tên hỗ trợ tiếp cận cho nút đóng trong hộp thoại modal",
+    "string": "Đóng"
   },
   "pgn.ProductTour.Checkpoint.bottom-position-text": {
-    "developer_comment": "Thông báo của trình đọc màn hình để thông báo cho người dùng rằng họ đang ở cuối bước tham quan sản phẩm.",
+    "developer_comment": "Thông báo hỗ trợ đọc màn hình cho biết người dùng đang ở cuối bước.",
     "string": "Cuối bước {step}"
   },
   "pgn.ProductTour.Checkpoint.page-index-text": {
-    "developer_comment": "",
-    "string": ""
+    "developer_comment": "Chỉ số trang thể hiện vị trí trong ProductTour",
+    "string": "{step} trên {totalSteps}"
   },
   "pgn.ProductTour.Checkpoint.top-position-text": {
-    "developer_comment": "Thông báo của trình đọc màn hình để thông báo cho người dùng rằng họ đang ở cuối bước tham quan sản phẩm.",
+    "developer_comment": "Thông báo hỗ trợ đọc màn hình cho biết người dùng đang ở đầu bước.",
     "string": "Đầu bước {step}"
   },
   "pgn.ProductTour.checkpointHeader.close": {
-    "developer_comment": "",
-    "string": ""
+    "developer_comment": "Text thay thế nút đóng cho ProductTour",
+    "string": "Đóng hướng dẫn"
   },
   "pgn.Toast.closeLabel": {
-    "developer_comment": "Đóng nhãn cho thành phần Toast",
+    "developer_comment": "Nhãn nút đóng cho Toast component",
     "string": "Đóng"
   }
 }
