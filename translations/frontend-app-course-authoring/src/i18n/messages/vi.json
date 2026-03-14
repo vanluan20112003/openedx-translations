@@ -3622,5 +3622,9 @@
   "dashboard.advancedCharts.comparison.detailedComparisonTable": "Bảng so sánh chi tiết",
   "dashboard.advancedCharts.comparison.course": "Khóa học",
   "dashboard.advancedCharts.comparison.compareByTime": "So sánh theo thời gian",
-  "dashboard.advancedCharts.comparison.compareWithOtherCoursesBtn": "So sánh với khóa học khác"
+  "dashboard.advancedCharts.comparison.compareWithOtherCoursesBtn": "So sánh với khóa học khác",
+  "dashboard.courseActionsPanel.manageGrades": "Quản lý điểm",
+  "dashboard.courseActionsPanel.manageGradesDesc": "Quản lý điểm, chấm lại, đặt lại số lần thử",
+  "dashboard.gradesManagementModal.title": "Quản lý điểm",
+  "dashboard.gradesManagementModal.loading": "Đang tải..."
 }
